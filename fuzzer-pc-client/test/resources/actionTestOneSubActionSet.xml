@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+
+<actionset order="INORDER">
+    
+	<actionset order="INORDER">
+		<action chance="1" operation="click" id="id1" />
+		<action chance="1" operation="insert" id="id2" />
+	</actionset>
+	    
+    <action chance="1" operation="insert" id="id3" />
+    
+</actionset>

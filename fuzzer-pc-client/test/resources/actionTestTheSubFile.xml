@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+
+<actionset order="INORDER">
+
+
+	<actionset order="RANDOM" times="2">
+		<action chance="1" operation="click" id="com.bunq.android:id/fabNewMessage" />
+		<action chance="1" operation="insertPicture" id="com.bunq.android:id/llNewPicturePlaceholder" />
+	</actionset>
+
+</actionset>

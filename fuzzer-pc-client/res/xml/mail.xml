@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+
+<actionset order="INORDER">
+	<actionset order="RANDOM">
+		<action chance="0.7" operation="insert" id="com.bunq.android:id/etMessageText"><file name="res/xml/input/long.xml" /></action>
+		<action chance="0.3" operation="insertEnter" id="com.bunq.android:id/etMessageText"><file name="res/xml/input/long.xml" /></action>
+	</actionset>
+	<action chance="0.9" operation="click" id="com.bunq.android:id/ivSend" />
+</actionset>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+
+<inputs>
+	<input chance="0.1"> </input>
+	<input chance="0.8">bert@bunq.com</input>
+	<input>stuufufu</input>
+	<input>123</input>
+	<input>0</input>
+	<input>null</input>
+	<input>1</input>
+	<input>9999999999999999999999999999999</input>
+	<input>-1</input>
+	<input>-999999999999999999999999999999</input>
+	<input>-0</input>
+	<input>SQL</input>
+	<input>string</input>
+	<input>""</input>
+	<input>/</input>
+	<input>.</input>
+	<input>3.2</input>
+	<input>3,14</input>
+	<input>87,564,47.47,457</input>
+	<input>,467</input>
+	<input>.4</input>
+	<input>6.,4,</input>
+	<input>;']</input>
+	<input>+234-223</input>
+	<input>42</input>
+	<input>  </input>
+	<input>	</input>
+	<input>[]{}</input>
+	<input>;DROP ALL</input>
+	<input>0x706870</input>
+	<input>SELECT X'4D7953514C';</input>
+	<input>4D7953514C</input>
+	<input>404</input>
+	<input>500</input>
+	<input>timemout</input>
+	<input>jakldfjkladsjflkadslfjladsjfladslkfldskajfldsjafl iooi jaio jfioaj eoijiodsjoij ioaj iodjfao ejoa </input>
+	<input>/n</input>
+	<input>\n</input>
+	<input>@</input>
+</inputs>

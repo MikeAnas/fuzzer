@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+
+<inputs>
+	<input chance="0.8">100</input>
+	<input chance="0.1">123</input>
+	<input>text</input>
+	<input>123</input>
+	<input>0</input>
+	<input>null</input>
+</inputs>

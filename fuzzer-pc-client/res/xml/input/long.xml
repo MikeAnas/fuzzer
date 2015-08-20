@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+
+<inputs>
+	<input chance="0.1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In imperdiet nibh lorem, a luctus nisl tristique nec. Donec gravida mi vehicula orci tincidunt, quis vehicula ligula sodales. Fusce lorem quam, condimentum tristique rhoncus id, elementum nec ante. In consectetur arcu sed purus suscipit, id ornare turpis mollis. Cras ut bibendum dui, vel tincidunt lacus. Cras non laoreet odio. Phasellus ut molestie purus. Maecenas pretium volutpat felis, eget aliquet ante tincidunt id.</input>
+	<input>123</input>
+	<input>stuuadsfadsfsdfadsfadsfadsfadsf af klds jfklfkls fufu</input>
+	<input>123</input>
+	<input>0</input>
+	<input>null</input>
+	<input>404</input>
+	<input>500</input>
+	<input>timemout</input>
+	<input>jakldfjkladsjflkadslfjladsjfladslkfldskajfldsjafl iooi jaio jfioaj eoijiodsjoij ioaj iodjfao ejoa </input>
+	<input>/n</input>
+	<input>\n</input>
+	<input>@</input>
+
+</inputs>
